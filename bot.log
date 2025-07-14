@@ -1,0 +1,361 @@
+2025-07-14 12:37:07 - root - INFO - تم إعداد نظام التسجيل بنجاح
+2025-07-14 12:37:07 - __main__ - INFO - 🚀 بدء تشغيل بوت حماية المجموعات
+2025-07-14 12:37:21 - root - INFO - تم إعداد نظام التسجيل بنجاح
+2025-07-14 12:37:21 - __main__ - INFO - 🚀 بدء تشغيل بوت حماية المجموعات
+2025-07-14 12:37:35 - root - INFO - تم إعداد نظام التسجيل بنجاح
+2025-07-14 12:37:35 - __main__ - INFO - 🚀 بدء تشغيل بوت حماية المجموعات
+2025-07-14 12:39:45 - root - INFO - تم إعداد نظام التسجيل بنجاح
+2025-07-14 12:39:45 - __main__ - INFO - 🚀 بدء تشغيل بوت حماية المجموعات
+2025-07-14 12:39:45 - __main__ - INFO - 🔄 تشغيل البوت في وضع Polling
+2025-07-14 12:39:46 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-14 12:39:46 - bot.handlers.verification - INFO - عضو جديد انضم للمجموعة: 5631238634
+2025-07-14 12:39:46 - bot.utils.database - INFO - تم إنشاء جداول قاعدة البيانات بنجاح
+2025-07-14 12:39:46 - bot.utils.database - INFO - تم تهيئة قاعدة البيانات بنجاح
+2025-07-14 12:39:46 - bot.services.verification_service - INFO - تم إنشاء تحدي التحقق للمستخدم 5631238634 في المجموعة -1002715966743
+2025-07-14 12:39:47 - apscheduler.scheduler - INFO - Added job "verification_timeout" to job store "default"
+2025-07-14 12:39:55 - root - INFO - تم إعداد نظام التسجيل بنجاح
+2025-07-14 12:39:55 - __main__ - INFO - 🚀 بدء تشغيل بوت حماية المجموعات
+2025-07-14 12:39:55 - __main__ - INFO - 🔄 تشغيل البوت في وضع Polling
+2025-07-14 12:39:55 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-14 12:40:40 - root - INFO - تم إعداد نظام التسجيل بنجاح
+2025-07-14 12:40:40 - __main__ - INFO - 🚀 بدء تشغيل بوت حماية المجموعات
+2025-07-14 12:40:40 - __main__ - INFO - 🔄 تشغيل البوت في وضع Polling
+2025-07-14 12:40:40 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-14 12:40:56 - root - INFO - تم إعداد نظام التسجيل بنجاح
+2025-07-14 12:40:56 - __main__ - INFO - 🚀 بدء تشغيل بوت حماية المجموعات
+2025-07-14 12:40:56 - __main__ - INFO - 🔄 تشغيل البوت في وضع Polling
+2025-07-14 12:40:56 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-14 12:41:20 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-14 12:41:21 - root - INFO - تم إعداد نظام التسجيل بنجاح
+2025-07-14 12:41:21 - __main__ - INFO - 🚀 بدء تشغيل بوت حماية المجموعات
+2025-07-14 12:41:21 - __main__ - INFO - 🔄 تشغيل البوت في وضع Polling
+2025-07-14 12:41:21 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-14 12:42:59 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-14 12:43:02 - root - INFO - تم إعداد نظام التسجيل بنجاح
+2025-07-14 12:43:02 - __main__ - INFO - 🚀 بدء تشغيل بوت حماية المجموعات
+2025-07-14 12:43:02 - __main__ - INFO - 🔄 تشغيل البوت في وضع Polling
+2025-07-14 12:43:02 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-14 12:45:42 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-14 12:45:43 - root - INFO - تم إعداد نظام التسجيل بنجاح
+2025-07-14 12:45:43 - __main__ - INFO - 🚀 بدء تشغيل بوت حماية المجموعات
+2025-07-14 12:45:43 - __main__ - INFO - ✅ جميع معالجات الأحداث تم تسجيلها بنجاح
+2025-07-14 12:45:43 - __main__ - INFO - ✅ All event handlers registered successfully
+2025-07-14 12:45:43 - __main__ - INFO - 🔄 تشغيل البوت في وضع Polling
+2025-07-14 12:45:43 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-14 12:46:08 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-14 12:46:09 - root - INFO - تم إعداد نظام التسجيل بنجاح
+2025-07-14 12:46:09 - __main__ - INFO - 🚀 بدء تشغيل بوت حماية المجموعات
+2025-07-14 12:46:09 - bot.handlers.commands - INFO - Registering command handlers...
+2025-07-14 12:46:09 - bot.handlers.commands - INFO - Command handlers registered successfully
+2025-07-14 12:46:09 - bot.handlers.moderation - INFO - Registering moderation handlers...
+2025-07-14 12:46:09 - bot.handlers.moderation - INFO - Moderation handlers registered successfully
+2025-07-14 12:46:09 - __main__ - INFO - ✅ جميع معالجات الأحداث تم تسجيلها بنجاح
+2025-07-14 12:46:09 - __main__ - INFO - ✅ All event handlers registered successfully
+2025-07-14 12:46:09 - __main__ - INFO - 🔄 تشغيل البوت في وضع Polling
+2025-07-14 12:46:10 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-14 12:46:44 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-14 12:46:45 - root - INFO - تم إعداد نظام التسجيل بنجاح
+2025-07-14 12:46:45 - __main__ - INFO - 🚀 بدء تشغيل بوت حماية المجموعات
+2025-07-14 12:46:45 - bot.handlers.commands - INFO - Registering command handlers...
+2025-07-14 12:46:45 - bot.handlers.commands - INFO - Command handlers registered successfully
+2025-07-14 12:46:45 - bot.handlers.moderation - INFO - Registering moderation handlers...
+2025-07-14 12:46:45 - bot.handlers.moderation - INFO - Moderation handlers registered successfully
+2025-07-14 12:46:45 - __main__ - INFO - ✅ جميع معالجات الأحداث تم تسجيلها بنجاح
+2025-07-14 12:46:45 - __main__ - INFO - ✅ All event handlers registered successfully
+2025-07-14 12:46:45 - __main__ - INFO - 🔄 تشغيل البوت في وضع Polling
+2025-07-14 12:46:45 - __main__ - ERROR - ❌ خطأ في تشغيل البوت: ExtBot is not properly initialized. Call `ExtBot.initialize` before accessing this property.
+2025-07-14 12:46:45 - __main__ - ERROR - ❌ Error starting bot: ExtBot is not properly initialized. Call `ExtBot.initialize` before accessing this property.
+2025-07-14 12:46:58 - root - INFO - تم إعداد نظام التسجيل بنجاح
+2025-07-14 12:46:58 - __main__ - INFO - 🚀 بدء تشغيل بوت حماية المجموعات
+2025-07-14 12:46:58 - bot.handlers.commands - INFO - Registering command handlers...
+2025-07-14 12:46:58 - bot.handlers.commands - INFO - Command handlers registered successfully
+2025-07-14 12:46:58 - bot.handlers.moderation - INFO - Registering moderation handlers...
+2025-07-14 12:46:58 - bot.handlers.moderation - INFO - Moderation handlers registered successfully
+2025-07-14 12:46:58 - __main__ - INFO - ✅ جميع معالجات الأحداث تم تسجيلها بنجاح
+2025-07-14 12:46:58 - __main__ - INFO - ✅ All event handlers registered successfully
+2025-07-14 12:46:58 - __main__ - INFO - 🔄 تشغيل البوت في وضع Polling
+2025-07-14 12:46:58 - __main__ - INFO - Bot username: @Yosy_69bot
+2025-07-14 12:46:58 - __main__ - ERROR - ❌ خطأ في تشغيل البوت: There is no current event loop in thread 'MainThread'.
+2025-07-14 12:46:58 - __main__ - ERROR - ❌ Error starting bot: There is no current event loop in thread 'MainThread'.
+2025-07-14 12:47:27 - root - INFO - تم إعداد نظام التسجيل بنجاح
+2025-07-14 12:47:27 - __main__ - INFO - 🚀 بدء تشغيل بوت حماية المجموعات
+2025-07-14 12:47:27 - bot.handlers.commands - INFO - Registering command handlers...
+2025-07-14 12:47:27 - bot.handlers.commands - INFO - Command handlers registered successfully
+2025-07-14 12:47:27 - bot.handlers.moderation - INFO - Registering moderation handlers...
+2025-07-14 12:47:27 - bot.handlers.moderation - INFO - Moderation handlers registered successfully
+2025-07-14 12:47:27 - __main__ - INFO - ✅ جميع معالجات الأحداث تم تسجيلها بنجاح
+2025-07-14 12:47:27 - __main__ - INFO - ✅ All event handlers registered successfully
+2025-07-14 12:47:27 - __main__ - INFO - 🔄 تشغيل البوت في وضع Polling
+2025-07-14 12:47:27 - __main__ - INFO - Bot is ready to receive messages
+2025-07-14 12:47:28 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-14 12:47:28 - telegram.ext.Application - INFO - Application started
+2025-07-14 13:02:18 - bot.handlers.commands - INFO - Received /help command from user 5009514991
+2025-07-14 13:02:26 - bot.handlers.commands - INFO - Received /start command from user 5009514991
+2025-07-14 13:12:52 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ReadError: 
+2025-07-14 13:12:52 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_transports/default.py", line 67, in map_httpcore_exceptions
+    yield
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_transports/default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_async/connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_async/http11.py", line 136, in handle_async_request
+    raise exc
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_async/http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_async/http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_async/http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_backends/anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/request/_httpxrequest.py", line 268, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_client.py", line 1559, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_client.py", line 1646, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_client.py", line 1674, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_client.py", line 1711, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_client.py", line 1748, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_transports/default.py", line 370, in handle_async_request
+    with map_httpcore_exceptions():
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_transports/default.py", line 84, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/_updater.py", line 715, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/_updater.py", line 384, in polling_action_cb
+    raise exc
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/_updater.py", line 373, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/_extbot.py", line 618, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/_bot.py", line 542, in decorator
+    result = await func(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/_bot.py", line 4164, in get_updates
+    await self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/_bot.py", line 630, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/_extbot.py", line 347, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/_bot.py", line 658, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/request/_baserequest.py", line 200, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/request/_baserequest.py", line 340, in _request_wrapper
+    raise exc
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/request/_httpxrequest.py", line 292, in do_request
+    raise NetworkError(f"httpx.{err.__class__.__name__}: {err}") from err
+telegram.error.NetworkError: httpx.ReadError: 
+2025-07-14 13:14:25 - telegram.ext.Updater - ERROR - Error while getting Updates: httpx.ReadError: 
+2025-07-14 13:14:25 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_transports/default.py", line 67, in map_httpcore_exceptions
+    yield
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_transports/default.py", line 371, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_async/connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_async/http11.py", line 136, in handle_async_request
+    raise exc
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_async/http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_async/http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_async/http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_backends/anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/request/_httpxrequest.py", line 268, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_client.py", line 1559, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_client.py", line 1646, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_client.py", line 1674, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_client.py", line 1711, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_client.py", line 1748, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_transports/default.py", line 370, in handle_async_request
+    with map_httpcore_exceptions():
+  File "/nix/store/clx0mcir7qw8zk36zbr4jra789g3knf6-python3-3.11.10/lib/python3.11/contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/httpx/_transports/default.py", line 84, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/_updater.py", line 715, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/_updater.py", line 384, in polling_action_cb
+    raise exc
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/_updater.py", line 373, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/_extbot.py", line 618, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/_bot.py", line 542, in decorator
+    result = await func(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/_bot.py", line 4164, in get_updates
+    await self._post(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/_bot.py", line 630, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/ext/_extbot.py", line 347, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/_bot.py", line 658, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/request/_baserequest.py", line 200, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/request/_baserequest.py", line 340, in _request_wrapper
+    raise exc
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/request/_baserequest.py", line 330, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/telegram/request/_httpxrequest.py", line 292, in do_request
+    raise NetworkError(f"httpx.{err.__class__.__name__}: {err}") from err
+telegram.error.NetworkError: httpx.ReadError: 
+2025-07-14 13:16:04 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-07-14 13:16:04 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-07-14 13:16:04 - telegram.ext.Application - INFO - Application.stop() complete
+2025-07-14 13:16:05 - root - INFO - تم إعداد نظام التسجيل بنجاح
+2025-07-14 13:16:05 - __main__ - INFO - 🚀 بدء تشغيل بوت حماية المجموعات
+2025-07-14 13:16:05 - bot.handlers.commands - INFO - Registering command handlers...
+2025-07-14 13:16:05 - bot.handlers.commands - INFO - Command handlers registered successfully
+2025-07-14 13:16:05 - bot.handlers.moderation - INFO - Registering moderation handlers...
+2025-07-14 13:16:05 - bot.handlers.moderation - INFO - Moderation handlers registered successfully
+2025-07-14 13:16:05 - bot.handlers.admin - INFO - Registering admin handlers...
+2025-07-14 13:16:05 - bot.handlers.admin - INFO - Admin handlers registered successfully
+2025-07-14 13:16:05 - __main__ - INFO - ✅ جميع معالجات الأحداث تم تسجيلها بنجاح
+2025-07-14 13:16:05 - __main__ - INFO - ✅ All event handlers registered successfully
+2025-07-14 13:16:05 - __main__ - INFO - 🔄 تشغيل البوت في وضع Polling
+2025-07-14 13:16:05 - __main__ - INFO - Bot is ready to receive messages
+2025-07-14 13:16:06 - apscheduler.scheduler - INFO - Scheduler started
+2025-07-14 13:16:06 - telegram.ext.Application - INFO - Application started
+2025-07-14 13:18:10 - bot.handlers.commands - INFO - Received /start command from user 5009514991
+2025-07-14 13:18:13 - bot.handlers.commands - INFO - Received /help command from user 5009514991
+2025-07-14 13:19:17 - bot.services.badwords_service - INFO - تم تحميل 30 كلمة محظورة
+2025-07-14 13:19:17 - bot.services.badwords_service - INFO - تمت إضافة كلمة مسيئة جديدة: خنزير
+2025-07-14 13:19:18 - bot.handlers.admin - INFO - تم إضافة كلمة مسيئة جديدة: خنزير بواسطة المشرف 5009514991
+2025-07-14 13:20:23 - bot.handlers.moderation - INFO - Received message update: Update(message=Message(channel_chat_created=False, chat=Chat(id=-1002715966743, title='حل مشاكل الروت', type=<ChatType.SUPERGROUP>), date=datetime.datetime(2025, 7, 14, 13, 20, 23, tzinfo=<UTC>), delete_chat_photo=False, from_user=User(first_name='ＳＣＡＮＯＲツ', id=5009514991, is_bot=False, language_code='ar', username='Haneen_bint_Youssef'), group_chat_created=False, message_id=256, supergroup_chat_created=False, text='/addbadخول\nمتناك\nزفت\nشرموط\nعبيط\nمنيك\nكلب\nحمار\nسافل\nوسخ\nقذر\nعرص\nديوث\nشرموطة\nكسمك\nيا ابن\nحقير\nوقح\nمنيل\nنذل\nوضيع\nجبان\nحيوان\nتافه\nغبي\nاهبل\nقليل الادب\nكس امك\nكس اختك\nنيك\nتف عليك\nابن الكلب\nعرصه\nبزر\nحقنه\nبغل\nمعفن\nخنيث\nسلق\nمخنث\nكلب ابن كلب\nسفيه\nوقحه\nخرا\nتبن\nيخرب بيتك\nغور\nانقلع\nفاجر\nمجرم\nخروف\nمسطول\nخنثى\nشرموطك\nكساختك\nكسختك\nابن المتناكة\nنيج\nبخ\nاهبل\nكس امك يا كلب\nبربور\nهامل\nمقرف\nابو كلب\nانذل\nمعرص\nمشلوم\nفطيس\nبوخه\nزبالة\nكخة\nضايع\nمنغولي\nمجنون\nعرصة\nعيلة منيلة\nمقموط\nجرادة\nفاشل\nبزرنجي\nخنزير\nصرصور\nعالة\nكخة عليك\nقواد\nصايع\nمنحرف\nعاهر\nفاجر\nقذر\nغدار\nحشاش\nوسخان\nملعون\nأهبل\nأبله\nهمجي\nحيوان بشري\nزب\nكس\nخنفس'), update_id=66612381)
+2025-07-14 13:20:23 - bot.handlers.moderation - INFO - Processing message from user 5009514991 in chat -1002715966743: /addbadخول
+متناك
+زفت
+شرموط
+عبيط
+منيك
+كلب
+حمار
+سافل...
+2025-07-14 13:20:38 - bot.handlers.moderation - INFO - Received message update: Update(message=Message(channel_chat_created=False, chat=Chat(id=-1002715966743, title='حل مشاكل الروت', type=<ChatType.SUPERGROUP>), date=datetime.datetime(2025, 7, 14, 13, 20, 38, tzinfo=<UTC>), delete_chat_photo=False, from_user=User(first_name='ＳＣＡＮＯＲツ', id=5009514991, is_bot=False, language_code='ar', username='Haneen_bint_Youssef'), group_chat_created=False, message_id=259, supergroup_chat_created=False, text='/addbadخول\nمتناك\nزفت\nشرموط\nعبيط\nمنيك\nكلب\nحمار\nسافل\nوسخ\nقذر\nعرص\nديوث\nشرموطة\nكسمك\nيا ابن\nحقير\nوقح\nمنيل\nنذل\nوضيع\nجبان\nحيوان\nتافه\nغبي\nاهبل\nقليل الادب\nكس امك\nكس اختك\nنيك\nتف عليك\nابن الكلب\nعرصه\nبزر\nحقنه\nبغل\nمعفن\nخنيث\nسلق\nمخنث\nكلب ابن كلب\nسفيه\nوقحه\nخرا\nتبن\nيخرب بيتك\nغور\nانقلع\nفاجر\nمجرم\nخروف\nمسطول\nخنثى\nشرموطك\nكساختك\nكسختك\nابن المتناكة\nنيج\nبخ\nاهبل\nكس امك يا كلب\nبربور\nهامل\nمقرف\nابو كلب\nانذل\nمعرص\nمشلوم\nفطيس\nبوخه\nزبالة\nكخة\nضايع\nمنغولي\nمجنون\nعرصة\nعيلة منيلة\nمقموط\nجرادة\nفاشل\nبزرنجي\nخنزير\nصرصور\nعالة\nكخة عليك\nقواد\nصايع\nمنحرف\nعاهر\nفاجر\nقذر\nغدار\nحشاش\nوسخان\nملعون\nأهبل\nأبله\nهمجي\nحيوان بشري\nزب\nكس\nخنفس'), update_id=66612383)
+2025-07-14 13:20:38 - bot.handlers.moderation - INFO - Processing message from user 5009514991 in chat -1002715966743: /addbadخول
+متناك
+زفت
+شرموط
+عبيط
+منيك
+كلب
+حمار
+سافل...
+2025-07-14 13:20:57 - bot.handlers.moderation - INFO - Received message update: Update(message=Message(channel_chat_created=False, chat=Chat(id=-1002715966743, title='حل مشاكل الروت', type=<ChatType.SUPERGROUP>), date=datetime.datetime(2025, 7, 14, 13, 20, 57, tzinfo=<UTC>), delete_chat_photo=False, from_user=User(first_name='ＳＣＡＮＯＲツ', id=5009514991, is_bot=False, language_code='ar', username='Haneen_bint_Youssef'), group_chat_created=False, message_id=260, supergroup_chat_created=False, text='خول\nمتناك\nزفت\nشرموط\nعبيط\nمنيك\nكلب\nحمار\nسافل\nوسخ\nقذر\nعرص\nديوث\nشرموطة\nكسمك\nيا ابن\nحقير\nوقح\nمنيل\nنذل\nوضيع\nجبان\nحيوان\nتافه\nغبي\nاهبل\nقليل الادب\nكس امك\nكس اختك\nنيك\nتف عليك\nابن الكلب\nعرصه\nبزر\nحقنه\nبغل\nمعفن\nخنيث\nسلق\nمخنث\nكلب ابن كلب\nسفيه\nوقحه\nخرا\nتبن\nيخرب بيتك\nغور\nانقلع\nفاجر\nمجرم\nخروف\nمسطول\nخنثى\nشرموطك\nكساختك\nكسختك\nابن المتناكة\nنيج\nبخ\nاهبل\nكس امك يا كلب\nبربور\nهامل\nمقرف\nابو كلب\nانذل\nمعرص\nمشلوم\nفطيس\nبوخه\nزبالة\nكخة\nضايع\nمنغولي\nمجنون\nعرصة\nعيلة منيلة\nمقموط\nجرادة\nفاشل\nبزرنجي\nخنزير\nصرصور\nعالة\nكخة عليك\nقواد\nصايع\nمنحرف\nعاهر\nفاجر\nقذر\nغدار\nحشاش\nوسخان\nملعون\nأهبل\nأبله\nهمجي\nحيوان بشري\nزب\nكس\nخنفس'), update_id=66612384)
+2025-07-14 13:20:57 - bot.handlers.moderation - INFO - Processing message from user 5009514991 in chat -1002715966743: خول
+متناك
+زفت
+شرموط
+عبيط
+منيك
+كلب
+حمار
+سافل
+وسخ
+قذ...
+2025-07-14 13:21:20 - bot.services.badwords_service - INFO - تم تحميل 31 كلمة محظورة
+2025-07-14 13:21:20 - bot.services.badwords_service - INFO - تمت إضافة كلمة مسيئة جديدة: خول متناك زفت شرموط عبيط منيك كلب حمار سافل وسخ قذر عرص ديوث شرموطة كسمك يا ابن حقير وقح منيل نذل وضيع جبان حيوان تافه غبي اهبل قليل الادب كس امك كس اختك نيك تف عليك ابن الكلب عرصه بزر حقنه بغل معفن خنيث سلق مخنث كلب ابن كلب سفيه وقحه خرا تبن يخرب بيتك غور انقلع فاجر مجرم خروف مسطول خنثى شرموطك كساختك كسختك ابن المتناكة نيج بخ اهبل كس امك يا كلب بربور هامل مقرف ابو كلب انذل معرص مشلوم فطيس بوخه زبالة كخة ضايع منغولي مجنون عرصة عيلة منيلة مقموط جرادة فاشل بزرنجي خنزير صرصور عالة كخة عليك قواد صايع منحرف عاهر فاجر قذر غدار حشاش وسخان ملعون أهبل أبله همجي حيوان بشري زب كس خنفس
+2025-07-14 13:21:20 - bot.handlers.admin - INFO - تم إضافة كلمة مسيئة جديدة: خول متناك زفت شرموط عبيط منيك كلب حمار سافل وسخ قذر عرص ديوث شرموطة كسمك يا ابن حقير وقح منيل نذل وضيع جبان حيوان تافه غبي اهبل قليل الادب كس امك كس اختك نيك تف عليك ابن الكلب عرصه بزر حقنه بغل معفن خنيث سلق مخنث كلب ابن كلب سفيه وقحه خرا تبن يخرب بيتك غور انقلع فاجر مجرم خروف مسطول خنثى شرموطك كساختك كسختك ابن المتناكة نيج بخ اهبل كس امك يا كلب بربور هامل مقرف ابو كلب انذل معرص مشلوم فطيس بوخه زبالة كخة ضايع منغولي مجنون عرصة عيلة منيلة مقموط جرادة فاشل بزرنجي خنزير صرصور عالة كخة عليك قواد صايع منحرف عاهر فاجر قذر غدار حشاش وسخان ملعون أهبل أبله همجي حيوان بشري زب كس خنفس بواسطة المشرف 5009514991
+2025-07-14 13:21:29 - bot.handlers.moderation - INFO - Received message update: Update(message=Message(channel_chat_created=False, chat=Chat(id=-1002715966743, title='حل مشاكل الروت', type=<ChatType.SUPERGROUP>), date=datetime.datetime(2025, 7, 14, 13, 21, 29, tzinfo=<UTC>), delete_chat_photo=False, from_user=User(first_name='ＳＣＡＮＯＲツ', id=5009514991, is_bot=False, language_code='ar', username='Haneen_bint_Youssef'), group_chat_created=False, message_id=263, supergroup_chat_created=False, text='كي'), update_id=66612386)
+2025-07-14 13:21:29 - bot.handlers.moderation - INFO - Processing message from user 5009514991 in chat -1002715966743: كي...
+2025-07-14 13:21:31 - bot.handlers.moderation - INFO - Received message update: Update(message=Message(channel_chat_created=False, chat=Chat(id=-1002715966743, title='حل مشاكل الروت', type=<ChatType.SUPERGROUP>), date=datetime.datetime(2025, 7, 14, 13, 21, 31, tzinfo=<UTC>), delete_chat_photo=False, from_user=User(first_name='ＳＣＡＮＯＲツ', id=5009514991, is_bot=False, language_code='ar', username='Haneen_bint_Youssef'), group_chat_created=False, message_id=264, supergroup_chat_created=False, text='كس'), update_id=66612387)
+2025-07-14 13:21:31 - bot.handlers.moderation - INFO - Processing message from user 5009514991 in chat -1002715966743: كس...
+2025-07-14 13:22:25 - bot.handlers.commands - INFO - Received /start command from user 5009514991
